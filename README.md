@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Juan Degli
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. Atualmente estou cursando os Bacharelados de Ciência e Tecnologia e Ciência da Computação na UFABC!
 
