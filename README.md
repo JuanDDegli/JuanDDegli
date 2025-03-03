@@ -9,14 +9,21 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
     <img 
         alt="LinkedIn" 
         title="Conecte-se comigo no LinkedIn!" 
-        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
 <a href="mailto:juanddegliespsote@gmail.com">
     <img 
         alt="Gmail" 
         title="Me envie um e-mail!" 
-        src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+</a>
+<a href="https://github.com/JuanDDegli">
+    <img 
+        alt="GitHub" 
+        title="Meu GitHub!" 
+        src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"
     />
 </a>
 
@@ -57,6 +64,14 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -105,14 +120,6 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
