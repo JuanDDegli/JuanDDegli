@@ -146,7 +146,7 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDDegli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanDDegli&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tobias-Degli&theme=dark&hide_border=true&card_width=300)
 </p>
 
 
