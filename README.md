@@ -145,3 +145,9 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
   />
 
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanDDegli&theme=dark)
+
+
+
+
