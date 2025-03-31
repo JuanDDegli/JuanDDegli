@@ -12,6 +12,7 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
+      
 <a href="mailto:juanddegliespsote@gmail.com">
     <img 
         alt="Gmail" 
@@ -19,6 +20,7 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
+      
 <a href="https://github.com/JuanDDegli">
     <img 
         alt="GitHub" 
@@ -144,9 +146,9 @@ Me chamo Juan Diego, tenho 19 anos e sou natural do interior do Rio de Janeiro. 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDDegli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanDDegli&theme=dark)
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanDDegli&theme=dark)
 
 
 
